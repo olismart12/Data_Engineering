@@ -1,5 +1,0 @@
-cloud:
-  account_id: "70403103938765" # Replace with your actual account ID
-  account-host: https://iu669.us1.dbt.com/ # Replace with your actual account host
-  project-id: 70403103945134 # Replace with your actual project ID
-  api_token: "dbtu_Qw_3a9ea936edda2ea57fe346fc5d4d68a6f2e9d91a" # Replace with your actual API token
