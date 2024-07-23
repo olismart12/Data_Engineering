@@ -1,8 +1,10 @@
 # Data_Engineering
 Data Engineering Task showcasing AWS cloud, Snowflake, DBT and Python.
 
-Technology:
-TSQL
+Technology & Languages:
+TSQL,
+JavaScript,
+TypeScript,
 SQL (Snowflake)
 JSON, YAML, .CSV formats
 SQL & Python (AWS)
