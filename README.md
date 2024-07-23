@@ -1,7 +1,10 @@
 # Data_Engineering
-Data Engineering Task showcasing AWS cloud, Snowflake and Python.
+Data Engineering Task showcasing AWS cloud, Snowflake, DBT and Python.
 
-1st commit:
-EER drawing for Hotel DB creation, including stored procedure in c sharp. 
-
-2nd commit
+Technology:
+TSQL
+SQL (Snowflake)
+JSON, YAML, .CSV formats
+SQL & Python (AWS)
+VMware (venv), .streamlit (python lib) for data viz
+pandas, numpy, matplotlib etc for analysis and sorting of arrays.
