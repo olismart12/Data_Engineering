@@ -1,0 +1,12 @@
+streamlit
+snowflake-snowpark-python
+graphviz
+pandas
+ploty
+pyvis
+scipy
+networkx
+graphs
+formats
+charts
+animated
